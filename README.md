@@ -1,6 +1,7 @@
 ### Olá, seja bem-vindo ao meu perfil! 👋
 - 👩 Meu nome é Melissa e tenho 18 anos!
 - 💻 Estou estudando lógica de programação realizando exercícios práticos em Portugol no VisualG e também estou aprendendo JavaScript.
+- 📑 Possuo conhecimento em HTML5 e CSS.
 - 🎯 Meu objetivo é construir minha carreira profissional na área de tecnologia!
 - 🎓 Realizei o ensino médio integrado ao curso técnico de Informática para Internet na Etec Maria Cristina Medeiros.
 - 📫 Email: melissa.lopes.oliveiramm@gmail.com | Linkedin: https://www.linkedin.com/in/melissalopesdeoliveira/
