@@ -5,5 +5,3 @@
 - 📑 Possuo conhecimento em HTML5 e CSS.
 - 🎯 Meu objetivo é construir minha carreira profissional na área de tecnologia!
 - 📫 Email: melissa.lopes.oliveiramm@gmail.com | Linkedin: https://www.linkedin.com/in/melissalopesdeoliveira/
-
-![Snake animation](https://github.com/gsampaiowz/gsampaiowz/blob/output/github-contribution-grid-snake.svg)
