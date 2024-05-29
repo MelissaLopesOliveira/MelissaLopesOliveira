@@ -3,7 +3,6 @@ Técnica em Informática para Internet e apaixonada por tecnologia. Tenho como o
 
 ## Formações complementares
 - Certificado Profissional Suporte em TI do Google (em andamento)
-- Fundamentos de IA para Devs - bootcamp santander 2024 (em andamento)
 - Python AI Backend Developer - bootcamp Coding The Future Vivo (em andamento)
 
 ## 💻 Habilidades
