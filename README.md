@@ -1,5 +1,5 @@
 ## Melissa Oliveira
-Técnica em Informática para Internet e apaixonada por tecnologia. Tenho como objetivo realizar pesquisas científicas ao longo da minha carreira, com foco em contribuir para a área da saúde por meio da tecnologia.
+Formada em Técnico de Informática, atualmente estou cursando Bacharelado em Ciência e Tecnologia.
 
 ## Formações complementares
 - Certificado Profissional em Segurança Cibernética. (em andamento)
