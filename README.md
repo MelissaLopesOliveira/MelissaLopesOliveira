@@ -2,8 +2,7 @@
 Técnica em Informática para Internet e apaixonada por tecnologia. Tenho como objetivo realizar pesquisas científicas ao longo da minha carreira, com foco em contribuir para a área da saúde por meio da tecnologia.
 
 ## Formações complementares
-- Certificado Profissional Suporte em TI do Google (em andamento)
-- Python AI Backend Developer - bootcamp Coding The Future Vivo (em andamento)
+- Certificado Profissional em Segurança Cibernética. (em andamento)
 
 ## 💻 Habilidades
 ### Linguagens
