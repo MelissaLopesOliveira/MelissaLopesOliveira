@@ -1,10 +1,9 @@
 ## Melissa Oliveira
-- Formada em Técnico de Informática
 - Cursando Bacharelado em Ciência e Tecnologia
-- Cursando Tecnólogo em Segurança Cibernética
+- Formada em Técnico de Informática
 
 ## Formações complementares
-- Certificado Profissional em Segurança Cibernética. (em andamento)
+- 
 
 ## 💻 Habilidades
 ### Linguagens
