@@ -1,6 +1,6 @@
 ## Melissa Oliveira
 - Cursando Bacharelado em Ciência e Tecnologia
-- Formada em Técnico de Informática
+- Formada em Técnico de Informática para Internet
 
 ## Formações complementares
 - 
